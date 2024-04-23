@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Replace 'your_input_file.csv' with the actual path
-input_file_path = 'tsi_data_hunters_square.csv'
+input_file_path = 'filename'
 output_file_path = 'header_information.csv'  # Specify the desired output file path
 
 # Read the CSV file into a DataFrame
